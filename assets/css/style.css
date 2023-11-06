@@ -1823,6 +1823,11 @@ background-attachment: fixed;
     transform: scale(1.1);
     cursor: pointer;
   }
+
+  &:focus{
+    transform: scale(1.1);
+    cursor: pointer;
+  }
 }
 
 /* width */
